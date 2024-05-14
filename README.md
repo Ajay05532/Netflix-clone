@@ -6,8 +6,8 @@ Welcome to our Netflix Clone, a meticulously crafted front-end replica offering 
 
 ## Screenshots
 
-<img width="420" alt="Screenshot 2024-05-14 at 4 15 37 PM" src="https://github.com/Ajay05532/Netflix-clone/assets/115156392/6afcc060-7523-43b5-9a34-3a871ad45311">
-<img width="420" alt="Screenshot 2024-05-14 at 4 19 33 PM" src="https://github.com/Ajay05532/Netflix-clone/assets/115156392/ff3f4371-1401-4212-9bb7-080345fbe700">
+<img width="400" alt="Screenshot 2024-05-14 at 4 15 37 PM" src="https://github.com/Ajay05532/Netflix-clone/assets/115156392/6afcc060-7523-43b5-9a34-3a871ad45311">
+<img width="400" alt="Screenshot 2024-05-14 at 4 19 33 PM" src="https://github.com/Ajay05532/Netflix-clone/assets/115156392/ff3f4371-1401-4212-9bb7-080345fbe700">
 
 ## Demo
 
